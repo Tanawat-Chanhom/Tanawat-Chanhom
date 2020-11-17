@@ -1,5 +1,7 @@
 ### Hi there 👋
-### I'm Tanawat Chanhom
+### I'm Tanawat Chanhom3
+
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
