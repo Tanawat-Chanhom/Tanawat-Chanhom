@@ -1,4 +1,3 @@
 ### Hi there 👋
-### I'm Tanawat Chanhom3
-
+### I'm Tanawat Chanhom
 ---
